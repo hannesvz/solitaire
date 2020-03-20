@@ -1,0 +1,10 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-image: url("tiled_felt.png");
+  background-repeat: repeat;
+}
+canvas {
+  display: block;
+}
+
